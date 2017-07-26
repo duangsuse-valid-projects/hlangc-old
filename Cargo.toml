@@ -2,5 +2,7 @@
 name = "hlangc"
 version = "0.1.0"
 authors = ["duangsuse <fedora-opensuse@outlook.com>"]
+license = "gplv3"
+description = "simply assembly compiler for coding monkey-lang"
 
 [dependencies]
